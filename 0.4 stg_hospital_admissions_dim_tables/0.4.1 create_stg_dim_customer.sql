@@ -7,7 +7,7 @@ FROM [stg_hospital_admissions].[dbo].[hospital_admissions_raw]
 
 ----------------------------------------------------------------------------
 
--- 01 create_stg_dim_customer
+-- 041 create_stg_dim_customer
 
 USE stg_hospital_admissions
 GO
