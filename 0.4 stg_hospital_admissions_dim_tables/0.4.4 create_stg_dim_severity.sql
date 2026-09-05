@@ -4,7 +4,7 @@ SELECT DISTINCT [severity]
 FROM [stg_hospital_admissions].[dbo].[hospital_admissions_raw]
 ---------------------------------------------------------------------
 
--- 044 create_stg_dim_disease
+-- 044 create_stg_dim_severity
 
 USE stg_hospital_admissions
 GO
