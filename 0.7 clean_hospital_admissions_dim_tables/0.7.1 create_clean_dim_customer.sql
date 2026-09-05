@@ -1,4 +1,4 @@
--- 071 create_stg_dim_customer
+-- 071 create_clean_dim_customer
 
 USE clean_hospital_admissions
 GO

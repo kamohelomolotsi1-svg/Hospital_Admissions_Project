@@ -1,4 +1,4 @@
--- 072 create_stg_dim_date
+-- 072 create_clean_dim_date
 
 USE clean_hospital_admissions
 GO
